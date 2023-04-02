@@ -1,7 +1,6 @@
 import java.util.* ;
 public class insertionsort{
     public static void main(String[] args){
-        // int arr[] ={4,8,2,9,5,2};
         Scanner a=new Scanner(System.in);
         System.out.println("enter a array length");
         int len=a.nextInt();
