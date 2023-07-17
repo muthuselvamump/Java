@@ -8,7 +8,9 @@ public class input {
         System.out.println("Enter your mobile no:");
         long mobilenum=scan.nextLong();
         System.out.println("Your Mobile No :" + mobilenum);
-
+        System.out.println("you are 18 yrs old please enter true or false");
+        boolean agelimit=scan.nextBoolean();
+        System.out.println("okay");
         
     }
 }
