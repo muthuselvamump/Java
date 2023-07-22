@@ -14,10 +14,10 @@ public class ifelse {
        if(mark >= 70 && mark < 90){
         System.out.println("b grade");
        }
-       if(mark >= 50 && mark < 70){
+       if(mark >= 45 && mark < 70){
         System.out.println("c grade");
        }
-       if(mark >= 0 && mark <= 49){
+       if(mark >= 0 && mark <= 44){
         System.out.println("faill study well");
        }
     }
