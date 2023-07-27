@@ -10,5 +10,6 @@ public class stringsample{
 
         System.out.println(new1 == new2);
         System.out.println(new4 == new3);
+        System.out.println(new4.equals(new3));
      }
 }
