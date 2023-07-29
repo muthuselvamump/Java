@@ -11,6 +11,9 @@ public class stringliterals {
         System.out.println(s2.toLowerCase());
         System.out.println(s3.toLowerCase());
         System.out.println(s3.toUpperCase());
+        String k="sachintendulkar";
+        System.out.println(k.substring(3));
+        System.out.println(k.substring(2, 5));
     }
     
 }
