@@ -25,6 +25,8 @@ public class switch_case_calculator {
             case '%':
                 System.out.println("ans:" + (a%b));
                 break;
+            default:
+                System.out.println("you have entered incorrect operator or format");
         }
 
     }
