@@ -12,6 +12,11 @@ public class Arrays {
         System.out.println(arr4[0][1]);
         String arr5[]={"java","aws","shell","linux","html","css","javascript"};
         System.out.println(arr5[6]);
+        System.out.println(arr4[0][2]*arr4[1][3]);
+        System.out.println(arr4[0][2]+arr4[1][3]);
+        System.out.println(arr4[0][2]-arr4[1][3]);
+        System.out.println(arr4[0][2]/arr4[1][3]);
+        System.out.println(arr4[0][2]%arr4[1][3]);
 
     }
 }
