@@ -15,8 +15,6 @@ public class array_matrix_multiplication {
                 }
             }
         }
-        for(int[] i:arr3){
-            System.out.println(i);
-        }
+         System.out.println(Arrays.deepToString(arr3));
     }
 }
