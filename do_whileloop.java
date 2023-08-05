@@ -7,6 +7,13 @@ public class do_whileloop {
             i++;
         }
         while(i<=5);
+        int h=0;
+
+        do{
+            System.out.println("although condition is true but its execute loop atleast on time");
+            h++;
+        }
+        while(h==0);
 
     }
     
