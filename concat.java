@@ -8,9 +8,9 @@ public class concat {
         System.out.println(s2);
         StringBuilder s3=new StringBuilder("hello");
         StringBuilder s4=new StringBuilder( "world");
-        StringBuilder s=s3.append(s4);
-        System.out.println(s);
-        System.out.println(s.toString());
+        StringBuilder s5=s3.append(s4);
+        System.out.println(s5);
+        System.out.println(s5.toString());
         
 
     }
