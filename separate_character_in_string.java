@@ -5,6 +5,12 @@ public class separate_character_in_string {
             System.out.println(s.charAt(i));
 
         }
+        String s1="java_object_oriented";
+        char[] arr=s1.toCharArray();
+
+        for(char a: arr){
+            System.out.println(a);
+        }
 
     }
     
