@@ -6,6 +6,7 @@ public class String_methods {
         String s1="javadeveloper";
         System.out.println(s1.codePointAt(5));
         System.out.println(s1.contains("ava"));
+        System.out.println(s1.endsWith("er"));
     }
     
 }
