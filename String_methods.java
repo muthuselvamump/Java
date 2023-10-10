@@ -9,6 +9,8 @@ public class String_methods {
         System.out.println(s1.endsWith("er"));
         String s2="ehdfgh";
         System.out.println(s2.isEmpty());
+        String s3="";
+        System.out.println(s3.isEmpty());
 
     }
     
