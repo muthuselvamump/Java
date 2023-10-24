@@ -4,5 +4,7 @@ public class quiz3{
         System.out.println(findvalue(arr));
 
     }
-    
+    public static int findvalue(int []ar1){
+        return ar1[ar1.length-ar1[2]];
+    }
 }
