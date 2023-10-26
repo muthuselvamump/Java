@@ -9,6 +9,8 @@ public class quiz3{
         s1=s1.replaceAll("[e,l,l]", "");
         System.out.println(s1);
         System.out.println('j' + 'a' + 'v' + 'a');//ASCII value of code 106 + 97 + 118 + 97 = 418
+        int $_ = 5;
+        System.out.println($_);
     }
     public static int findvalue(int []ar1){
         return ar1[ar1.length-ar1[2]];
