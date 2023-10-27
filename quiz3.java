@@ -12,6 +12,9 @@ public class quiz3{
         int $_ = 5;
         System.out.println($_);
     }
+    public static void main(String arr){ 
+          // we can overload main method
+    } 
     public static int findvalue(int []ar1){
         return ar1[ar1.length-ar1[2]];
     }
