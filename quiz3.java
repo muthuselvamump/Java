@@ -11,6 +11,9 @@ public class quiz3{
         System.out.println('j' + 'a' + 'v' + 'a');//ASCII value of code 106 + 97 + 118 + 97 = 418
         int $_ = 5;
         System.out.println($_);
+        String a_b;
+        int k;
+        System.out.println();
     }
     public static void main(String arr){ 
           // we can overload main method
