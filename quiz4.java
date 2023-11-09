@@ -9,5 +9,8 @@ public class quiz4 {
         int y=2147483647;
         y++;
         System.out.println(y);
+        y++;
+        System.out.println(y);
     }
+
 }
