@@ -10,7 +10,8 @@ System.out.println(sb1.toString() == s1);
 System.out.println(sb1.toString().equals(s1));
 int five=5;
 int two=2;
-int total 
+int total =five+(five >6? ++two : --two);
+System.out.println(total);
     }
     
 }
