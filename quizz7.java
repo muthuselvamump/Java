@@ -4,6 +4,8 @@ public class quizz7 {
     }
     public static void main(String []args){
         quizz7();
+        int x=10;
+        System.out.println(x++ + ++x);
     }
     
 }
