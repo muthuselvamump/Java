@@ -8,6 +8,7 @@ public class quizz7 {
         System.out.println(x++ + ++x);
         int y=2;
         System.out.println(y++ + --y);
+        System.out.println(x++ * y-- + ++x);
     }
     
 }
