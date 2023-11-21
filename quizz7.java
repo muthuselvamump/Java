@@ -6,6 +6,8 @@ public class quizz7 {
         quizz7();
         int x=10;
         System.out.println(x++ + ++x);
+        int y=2;
+        System.out.println(y++ + --y);
     }
     
 }
