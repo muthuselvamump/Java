@@ -9,6 +9,10 @@ public class quizz7 {
         int y=2;
         System.out.println(y++ + --y);
         System.out.println(x++ * y-- + ++x);
+        Integer i=100;
+        Integer i1=100;
+        System.out.println(i==i1);
+        
     }
     
 }
