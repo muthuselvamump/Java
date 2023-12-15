@@ -6,16 +6,18 @@ public class reverse_string{
         int n=scan.nextInt();
         scan.nextLine();
         String str2[]=new String[n];
+        String str3[]=new String[n];
         for(int i=0;i<n;i++){
             System.out.println("Please Enter a String: ");
             str2[i]=scan.nextLine();
         }
         for(int j=0;j<str2.length;j++){
             for(int i=str2[j].length()-1;i>=0;i--){
-                System.out.print(str2[j].charAt(i));
+                str3[j] +=str2[j].charAt(i);
             }
             //System.out.println("hello" + str2[j]);
         }
+        System.out.println(str3[0]);
         /*String str=scan.nextLine();
         //String str="java";
         String str1="";
