@@ -10,6 +10,7 @@ public class reverse_string{
         for(int i=0;i<n;i++){
             System.out.println("Please Enter a String: ");
             str2[i]=scan.nextLine();
+            str3[i]="";
         }
         for(int j=0;j<str2.length;j++){
             for(int i=str2[j].length()-1;i>=0;i--){
@@ -17,7 +18,10 @@ public class reverse_string{
             }
             //System.out.println("hello" + str2[j]);
         }
-        System.out.println(str3[0]);
+        for(String s:str3){
+            System.out.println(s);
+        }
+        //System.out.println(str3[0]);
         /*String str=scan.nextLine();
         //String str="java";
         String str1="";
