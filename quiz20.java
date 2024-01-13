@@ -21,7 +21,6 @@ public class quiz20 {
             result = result + 10000;
 
         System.out.println("result = " + result);
-        System.out.println(x.equals(z));
     }
     
 }
