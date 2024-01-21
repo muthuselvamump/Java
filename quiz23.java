@@ -8,6 +8,12 @@ public class quiz23 {
             result = 1;
         if (o != oc)  
             result = result + 10;
-      
+        if (o.equals(oc) )  
+            result = result + 100;
+        if (oc.equals(o) )  
+            result = result + 1000;
+
+        System.out.println("result = " + result);
+    }
     
 }
