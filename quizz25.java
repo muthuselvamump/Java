@@ -3,6 +3,11 @@ public class quizz25 {
     { 
         int $_ = 5; 
         System.out.println($_);
+
+        int x=10;
+        if(x==10){
+         
+        }
     } 
     
 }
