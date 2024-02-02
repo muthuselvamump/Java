@@ -12,7 +12,13 @@ public class quizz25 {
         Integer a=Integer.valueOf(33);
         int b=a+x;
         System.out.println(b);
-        
+        Integer c=Integer.valueOf("44");
+        b=a+c;
+        int n=66;
+        String s="33";
+        String s1=n+s;
+        System.out.println(s1);
+        System.out.println(b);
     } 
     
 }
