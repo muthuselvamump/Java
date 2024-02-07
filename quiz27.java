@@ -10,5 +10,7 @@ public class quiz27{
          finally{
             System.out.println("continue");
          }
+         String d="12",ed="012";
+         System.out.println()
     }
 }
