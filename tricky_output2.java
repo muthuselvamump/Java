@@ -3,6 +3,9 @@ public class tricky_output2 {
         int a=10;
         int b=20;
         String s="hjk";
+        int c=20;
+        int d=20;
+        System.out.println(a+b+s+c+d);
     }
     
 }
