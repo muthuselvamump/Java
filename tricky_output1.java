@@ -10,6 +10,10 @@ public class tricky_output1 {
         //int e=++23;////only we do increment variable we didnt do constand so its throw error
         int e=++d;
         System.out.println(e);
+        int f=10;
+       // int g=++(++f);// also we cant use increment opertor for expression also()
+       int g=(++f);
+       System.out.println(g);
     }
     
 }
