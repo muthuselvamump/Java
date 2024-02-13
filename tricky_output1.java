@@ -6,6 +6,10 @@ public class tricky_output1 {
        //byte c=(byte)a+b;----->if we didnt add separate bracket its also throw error
        byte c=(byte)(a+b);
         System.out.println(c);
+        int d=23;
+        //int e=++23;////only we do increment variable we didnt do constand so its throw error
+        int e=++d;
+        System.out.println(e);
     }
     
 }
