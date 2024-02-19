@@ -8,6 +8,11 @@ public class incremenet_decrement_operator3 {
         System.out.println("j="+j);
         System.out.println("k="+k);
         System.out.println("m="+m);
+        int l = 0, n = 0;
+         
+        int p = --l * --n * n-- * l--;
+         
+        System.out.println(p);
     }
     
 }
