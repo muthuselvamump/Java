@@ -12,6 +12,8 @@ public class tricky_output2 {
     public static void test(Object obj){
         System.out.println("obj");
     }
-    
+    public static void test(String s){
+        System.out.println("String");
+    }
     
 }
