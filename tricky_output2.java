@@ -6,6 +6,12 @@ public class tricky_output2 {
         int c=20;
         int d=20;
         System.out.println(a+b+s+c+d);
+        test(null);
+ 
     }
+    public static void test(Object obj){
+        System.out.println("obj");
+    }
+    
     
 }
