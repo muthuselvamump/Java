@@ -8,7 +8,7 @@ public class tricky_output2 {
         System.out.println(a+b+s+c+d);
         test(null);
         System.out.println('A'+'B');//A AND B not a string its char so unicode of a and b will add 65+66=131
- 
+        System.out.println("A"+"B"+'A');//you try to conctenate primitive data after string date will be string
     }
     public static void test(Object obj){
         System.out.println("obj");
