@@ -10,6 +10,10 @@ public class tricky_output2 {
         System.out.println('A'+'B');//A AND B not a string its char so unicode of a and b will add 65+66=131
         System.out.println("A"+"B"+'A');//you try to conctenate primitive data after string date will be string
         System.out.println(20+1.34f+"a"+"b");
+        char []astr={'a','b','c','d'};
+        System.out.println(astr.toString());
+        String str=astr.toString();
+        System.out.println(str);
     }
     public static void test(Object obj){
         System.out.println("obj");
