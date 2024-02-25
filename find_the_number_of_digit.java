@@ -1,3 +1,4 @@
+import java.math.*;
 public class find_the_number_of_digit {
     public static void main(String args[]){
     int num=12345;
@@ -7,6 +8,9 @@ public class find_the_number_of_digit {
         num=num/10;
         count +=1;
     }
+    int num1=12345;
     System.out.println(count);
+    int snum=(int)Math.log10(num1)+1;
+    System.out.println(snum);
 }
 }
