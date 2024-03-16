@@ -1,5 +1,3 @@
-import javax.sound.midi.Track;
-
 public class tricky_output_java21 {
     public void print(Integer i) {
         System.out.println("Integer");
