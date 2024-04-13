@@ -3,6 +3,11 @@ public class tricky_outputs {
         for(int i=0;i<4;i++)
         System.out.println("iteration");
         System.out.println("java");
+
+
+        for(int i=0;i<4;i++)
+            System.out.println("iteration");
+            System.out.println("java");
     }
     
 }
