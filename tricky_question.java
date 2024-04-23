@@ -5,6 +5,10 @@ public class tricky_question {
             i++;
         }
         System.out.println(i);
+
+        byte $date=(byte) 2205199;
+
+        System.out.println($date);
     }
     
 }
