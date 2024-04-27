@@ -4,8 +4,11 @@ public class trick_quiz1 {
         if(b=true)
             for(int i=0;i<2;i++)
             System.out.println(i);
-        else{
+        else
         System.out.println("else");
-        }
-    }    
+        System.out.println(b);
+        
+        short $27_04_2023=(27-04-2024);
+        
+     }
 }
