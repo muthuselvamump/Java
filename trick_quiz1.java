@@ -10,5 +10,7 @@ public class trick_quiz1 {
         
         short $27_04_2023=(27-04-2024);
         System.out.println("Date"+$27_04_2023);
+        int date=(21-05-2023);
+        System.out.println(date);
      }
 }
