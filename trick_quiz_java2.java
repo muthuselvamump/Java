@@ -4,6 +4,9 @@ public class trick_quiz_java2 {
         String str2=1+"null"+"null";
         System.out.println(str);
         System.out.println(str2);
+        String s="javadeveloper";
+
+
     }
     
 }
