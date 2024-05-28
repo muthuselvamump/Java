@@ -5,6 +5,7 @@ public class java_quiz1 {
         int []arr1=new int[1];
         System.out.println(arr1[0]);
         String str=10+5+"hello";
+        System.out.println(str);
     }
     
 }
