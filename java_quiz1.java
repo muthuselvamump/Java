@@ -8,7 +8,7 @@ public class java_quiz1 {
         System.out.println(str);
         String str1= "DaiIly JaVa QuIz";
         String str2="DailyJavaQuiz";
-        sout
+        System.out.println(str1.trim().equalsIgnoreCase(str2));
     }
     
 }
