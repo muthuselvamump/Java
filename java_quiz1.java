@@ -6,6 +6,9 @@ public class java_quiz1 {
         System.out.println(arr1[0]);
         String str=10+5+"hello";
         System.out.println(str);
+        String str1= "DaiIly JaVa QuIz";
+        String str2="DailyJavaQuiz";
+        sout
     }
     
 }
