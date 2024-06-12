@@ -9,6 +9,7 @@ public class java_quiz1 {
         String str1= "DaiIly JaVa QuIz";
         String str2="DailyJavaQuiz";
         System.out.println(str1.trim().equalsIgnoreCase(str2));
+        String str23="helloworld";
     }
     
 }
