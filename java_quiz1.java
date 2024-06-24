@@ -11,6 +11,7 @@ public class java_quiz1 {
         System.out.println(str1.trim().equalsIgnoreCase(str2));
         String str23="helloworld";
         System.out.println("substring:"+str23.substring(5));
+        String concatnum="num";
     }
     
 }
