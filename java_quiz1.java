@@ -12,6 +12,8 @@ public class java_quiz1 {
         String str23="helloworld";
         System.out.println("substring:"+str23.substring(5));
         String concatnum="num";
+        System.out.println(concatnum+10+10);
+        System.out.println(10+10+concatnum);
     }
     
 }
