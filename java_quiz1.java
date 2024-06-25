@@ -16,6 +16,8 @@ public class java_quiz1 {
         System.out.println(10+10+concatnum);
         String s1="HELLO";
         s1.concat("WORLD");
+        s1=s1+"coders";
+        System.out.println(s1);
     }
     
 }
