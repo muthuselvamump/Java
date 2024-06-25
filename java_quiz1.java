@@ -14,6 +14,8 @@ public class java_quiz1 {
         String concatnum="num";
         System.out.println(concatnum+10+10);
         System.out.println(10+10+concatnum);
+        String s1="HELLO";
+        s1.concat("WORLD");
     }
     
 }
