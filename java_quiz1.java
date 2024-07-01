@@ -18,6 +18,9 @@ public class java_quiz1 {
         s1.concat("WORLD");
         s1=s1+"coders";
         System.out.println(s1);
+        int num1=4;
+        int num2=++(num1);
+        
     }
     
 }
