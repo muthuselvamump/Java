@@ -20,6 +20,7 @@ public class java_quiz1 {
         System.out.println(s1);
         int num1=4;
         int num2=++(num1);
+        System.out.println(num2);
         
     }
     
