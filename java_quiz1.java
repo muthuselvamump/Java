@@ -23,7 +23,7 @@ public class java_quiz1 {
         System.out.println(num2);
         String j1="JAVA";
         String j2=new String("JAVA");
-        
+    System.out.println(j1==j2);        
     }
     
 }
