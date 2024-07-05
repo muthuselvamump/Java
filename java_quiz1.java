@@ -24,6 +24,9 @@ public class java_quiz1 {
         String j1="JAVA";
         String j2=new String("JAVA");
     System.out.println(j1==j2);        
+    int i=127;
+    Integer i1=Integer.valueOf(127);
+        
     }
     
 }
