@@ -26,7 +26,13 @@ public class java_quiz1 {
     System.out.println(j1==j2);        
     int i=127;
     Integer i1=Integer.valueOf(127);
-        
+    System.out.println("integer quiz");
+    System.out.println(i==i1);
+    Integer i2=Integer.valueOf(12);
+    Integer i3=Integer.valueOf(12);
+    System.out.println("integer quiz");
+    System.out.println(i2==i3);
+
     }
     
 }
