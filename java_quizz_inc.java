@@ -4,6 +4,8 @@ public class java_quizz_inc {
 
     int k=--(i);
     System.out.println(k);
+     int s=i++ - ++i + k++;
+     System.out.println(s);
     }
     
 }
