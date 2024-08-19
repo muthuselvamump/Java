@@ -9,6 +9,9 @@ public class java_quizz_inc {
      i = i++ + ++i;
          
         System.out.println(i);
+        i = i++ - --i + ++i - i--;
+         
+        System.out.println(i);
     }
     
 }
