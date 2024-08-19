@@ -6,6 +6,9 @@ public class java_quizz_inc {
     System.out.println(k);
      int s=i++ - ++i + k++;
      System.out.println(s);
+     i = i++ + ++i;
+         
+        System.out.println(i);
     }
     
 }
