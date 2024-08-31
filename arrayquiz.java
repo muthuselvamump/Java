@@ -5,6 +5,7 @@ public class arrayquiz {
     arrchange(arr);
     System.out.println(Arrays.toString(arr));
  }  
- 
+ public static void arrchange(int []a){
+    a[0]=55;
  } 
 }
