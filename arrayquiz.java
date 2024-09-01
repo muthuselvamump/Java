@@ -11,5 +11,7 @@ public class arrayquiz {
  public static void arrchange(int []a){
     a[0]=55;
  } 
- 
+ public static void stringchange(String a){
+   a="developer";
+ }
 }
