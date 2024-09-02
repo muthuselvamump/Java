@@ -7,11 +7,17 @@ public class arrayquiz {
     String s1="Java";
     stringchange(s1);
     System.out.println(s1);
+    String str[]={"a","b","c"};
+    strrchange(str);
+    System.out.println(Arrays.toString(str));
  }  
  public static void arrchange(int []a){
     a[0]=55;
  } 
  public static void stringchange(String a){
    a="developer";
+ }
+ public static void strrchange(String[] args) {
+   args[0]="z";
  }
 }
