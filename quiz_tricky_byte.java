@@ -6,7 +6,7 @@ public class quiz_tricky_byte {
         for(;b>0;b++){
             System.out.println(b);
         }
-        System.out.write("t4teq".getBytes());
+        System.out.write("java".getBytes());
     }
     
 }
