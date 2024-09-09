@@ -1,5 +1,8 @@
 import java.io.IOException;
 
+class TEST{
+    protected int x,y;
+}
 public class quiz_tricky_byte {
     public static void main(String[] args) throws IOException {
         byte b=126;
