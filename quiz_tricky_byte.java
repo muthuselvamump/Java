@@ -10,6 +10,10 @@ public class quiz_tricky_byte {
             System.out.println(b);
         }
         System.out.write("java".getBytes());
+
+        System.out.println();
+        TEST T=new TEST();
+        System.out.println(T.x + " " +T.y);
     }
     
 }
