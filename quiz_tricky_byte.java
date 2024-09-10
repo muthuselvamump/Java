@@ -2,6 +2,7 @@ import java.io.IOException;
 
 class TEST{
     protected int x,y;
+    int h;
 }
 public class quiz_tricky_byte {
     public static void main(String[] args) throws IOException {
@@ -14,6 +15,7 @@ public class quiz_tricky_byte {
         System.out.println();
         TEST T=new TEST();
         System.out.println(T.x + " " +T.y);
+        System.out.println(T.h);
     }
     
 }
